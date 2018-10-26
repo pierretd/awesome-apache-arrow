@@ -22,8 +22,8 @@ articles and tutorials. The curated list is divided into three parts:
 
 | Title | Speaker | Uploader | Time  | Year | descrp|
 | ----- | ------- | -------- | ---- | ----- | ----|
-| :star: [Apache Arrow: A Cross-Language Development Platform for in Memory Data](https://www.youtube.com/watch?v=y7zGnKzaKIw)  |  Wes McKinney | SciPy 2018 | 26:04 | 2015 | Wes discusses the current development initiative and future roadmap |
-| :star: [Apache Arrow: Cross-Language Development Platform for In-Memory Analytics](https://www.youtube.com/watch?v=RIUavGW5fNE) |  Wes McKinney | AnacondaCon 2018 | 46:54|  2015 |Wes descibes the ongoing community efforts in building Apache Arrow
+| [Apache Arrow: A Cross-Language Development Platform for in Memory Data](https://www.youtube.com/watch?v=y7zGnKzaKIw)  |  Wes McKinney | SciPy 2018 | 26:04 | 2015 | Wes discusses the current development initiative and future roadmap |
+| [Apache Arrow: Cross-Language Development Platform for In-Memory Analytics](https://www.youtube.com/watch?v=RIUavGW5fNE) |  Wes McKinney | AnacondaCon 2018 | 46:54|  2015 |Wes descibes the ongoing community efforts in building Apache Arrow
 
 
 ### (1.2)  :page_facing_up: Articles
