@@ -2,7 +2,7 @@
 
 # awesome-apache-arrow
 A collection of resources for [:dart: apache arrow](https://arrow.apache.org/).
-[Awesome apache-arrow logo](/img/awesome_apache_arrow.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Awesome apache-arrow logo](/img/awesome_apache_arrow.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 **Contents:** This is an unofficial curated list of resources for Apache Arrow,
 a cross-language development platform for in-memory data. Here you will find videos,
