@@ -8,9 +8,6 @@ A collection of resources for [:dart: apache arrow](https://arrow.apache.org/).
 a cross-language development platform for in-memory data. Here you will find videos,
 articles and tutorials. The curated list is divided into three parts:
 
-1. **apache arrow resources** - A collection of videos, cheat-sheets, tutorials and 
-   books *directly related* to pandas.
-
 1.1:tv:**Videos**
 
 1.2:page_facing_up:**Articles**
