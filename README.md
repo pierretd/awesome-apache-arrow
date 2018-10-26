@@ -2,6 +2,7 @@
 
 # awesome-apache-arrow
 A collection of resources for [:dart: apache arrow](https://arrow.apache.org/).
+
 ![Awesome apache-arrow logo](/img/awesome_apache_arrow.png)
 
 **Contents:** This is an unofficial curated list of resources for Apache Arrow,
