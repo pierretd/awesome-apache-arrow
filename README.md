@@ -1,7 +1,7 @@
 
 
 # awesome-apache-arrow
-A collection of resources for [:dart: apache arrow](https://arrow.apache.org/).
+A collection of resources for :dart: [Apache Arrow](https://arrow.apache.org/).
 
 ![Awesome apache-arrow logo](/img/awesome_apache_arrow.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
