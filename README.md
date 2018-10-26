@@ -10,8 +10,11 @@ articles and tutorials. The curated list is divided into three parts:
 
 1. **apache arrow resources** - A collection of videos, cheat-sheets, tutorials and 
    books *directly related* to pandas.
+
 1.1:tv:**Videos**
+
 1.2:page_facing_up:**Articles**
+
 1.3:mortar_board:**Tutorials**
 
 --------------------------------------------------------------------------------
